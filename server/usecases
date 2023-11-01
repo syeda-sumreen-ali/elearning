@@ -1,0 +1,1 @@
+1. add token to blacklist once it is used so that it can not used again until it expires
